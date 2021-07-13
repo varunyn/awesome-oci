@@ -4,6 +4,8 @@
 
 ## Getting Started
 
+- [Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm)
+- [Blogs](https://blogs.oracle.com/cloud-infrastructure/)
 - [Quickstart](https://github.com/oracle-quickstart/)
 - [Reference Architecture](https://docs.oracle.com/solutions/?type=reference-architectures&page=0&is=true&sort=0)
 - [SDKs](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdks.htm) - Java, Python, JS/TS, .NET, Go, Ruby
