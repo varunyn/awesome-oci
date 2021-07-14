@@ -19,6 +19,13 @@
 - [Github Repo Examples ](https://github.com/oracle/oracle-functions-samples) - List of example applications written in Java and Python
 
 
+## BLogs
+
+- [A-team](https://www.ateam-oracle.com/)
+- [Redthunder](https://redthunder.blog/)
+- [Techsupper](https://www.techsupper.com/) - For OIC, VBCS
+- [Mytechretreat](https://mytechretreat.com/)
+
 ## About This Document
 
 This is personal repo meant to collect awesome resources in OCI, not an official repo.
