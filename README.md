@@ -5,7 +5,7 @@
 ## Getting Started
 
 - [OCI Sign Up for Always Free resources](https://www.oracle.com/cloud/free/)
-- [Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm)
+- [Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm)
 - [Blogs](https://blogs.oracle.com/cloud-infrastructure/)
 - [Quickstart](https://github.com/oracle-quickstart/)
 - [Reference Architecture](https://docs.oracle.com/solutions/?type=reference-architectures&page=0&is=true&sort=0)
