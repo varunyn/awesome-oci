@@ -28,7 +28,7 @@
 - [Terraform official docs on OCI ](https://registry.terraform.io/providers/hashicorp/oci/latest/docs) - Terraform official docs for OCI
 
 
-## BLogs
+## Blogs
 
 - [A-team](https://www.ateam-oracle.com/)
 - [Redthunder](https://redthunder.blog/)
