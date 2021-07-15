@@ -1,5 +1,5 @@
 
-
+# Awesome-OCI
 
 
 ## Getting Started
@@ -18,13 +18,22 @@
 
 - [Github Repo Examples ](https://github.com/oracle/oracle-functions-samples) - List of example applications written in Java and Python
 
+#### Oracle Kubernetes Engine
 
-## BLogs
+- [OKE Docs](https://docs.oracle.com/en-us/iaas/Content/ContEng/home.htm)
+
+## Blogs
 
 - [A-team](https://www.ateam-oracle.com/)
 - [Redthunder](https://redthunder.blog/)
 - [Techsupper](https://www.techsupper.com/) - For OIC, VBCS
 - [Mytechretreat](https://mytechretreat.com/)
+
+## Contributing
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it super awesome.
 
 ## About This Document
 
