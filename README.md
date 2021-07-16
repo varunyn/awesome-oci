@@ -9,7 +9,7 @@
 - [Blogs](https://blogs.oracle.com/cloud-infrastructure/)
 - [Quickstart](https://github.com/oracle-quickstart/)
 - [Hands on Labs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
-- [Solution Playbooks](https://docs.oracle.com/solutions/)
+- [Solution Playbooks](https://docs.oracle.com/solutions/?q=&cType=solution-playbook&sort=date-desc&lang=en)
 - [Reference Architecture](https://docs.oracle.com/solutions/?type=reference-architectures&page=0&is=true&sort=0)
 - [SDKs](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdks.htm) - Java, Python, JS/TS, .NET, Go, Ruby
 - [CLI](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm) - Getting started and installation
