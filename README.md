@@ -33,6 +33,10 @@
 - [Terraform Getting Started on OCI ](https://learn.hashicorp.com/collections/terraform/oci-get-started) - Getting started on OCI using Terraform
 - [Terraform official docs on OCI ](https://registry.terraform.io/providers/hashicorp/oci/latest/docs) - Terraform official docs for OCI
 
+#### Visual Builder Studio
+
+- [Visual Builder Studio product page](https://www.oracle.com/application-development/visual-builder-studio/) - Product page
+- [Visual Builder Studio documentation](https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/index.html) - Visual Builder Studio documentation
 
 ## Blogs
 
