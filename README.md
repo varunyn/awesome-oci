@@ -22,6 +22,10 @@
 
 - [Github Repo Examples ](https://github.com/oracle/oracle-functions-samples) - List of example applications written in Java and Python
 
+#### Logging Analytics
+
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLiuPvpy8QsiV_QT9A-pECFkK30yMJEXOu) - Video series on Logging Analytics service
+
 #### Oracle Kubernetes Engine
 
 - [OKE Docs](https://docs.oracle.com/en-us/iaas/Content/ContEng/home.htm)
