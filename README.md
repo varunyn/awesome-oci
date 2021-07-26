@@ -48,6 +48,7 @@
 - [Redthunder](https://redthunder.blog/)
 - [Techsupper](https://www.techsupper.com/) - For OIC, VBCS
 - [Mytechretreat](https://mytechretreat.com/)
+- [Martin Berger](https://www.martinberger.com/)
 
 ## Contributing
 
