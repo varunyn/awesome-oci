@@ -18,6 +18,10 @@
 
 ## Services
 
+#### Devops
+
+- [Jenkins Plugin](https://github.com/jenkinsci/oracle-cloud-infrastructure-devops-plugin)
+
 #### Functions
 
 - [Github Repo Examples ](https://github.com/oracle/oracle-functions-samples) - List of example applications written in Java and Python
