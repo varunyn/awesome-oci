@@ -56,6 +56,7 @@
 - [A-team](https://www.ateam-oracle.com/)
 - [Redthunder](https://redthunder.blog/)
 - [Techsupper](https://www.techsupper.com/) - For OIC, VBCS
+- [niallcblogs](http://niallcblogs.blogspot.com/) - For OIC 
 - [Mytechretreat](https://mytechretreat.com/)
 - [Martin Berger](https://www.martinberger.com/)
 
