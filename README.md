@@ -42,9 +42,11 @@
 - [Terraform official docs on OCI ](https://registry.terraform.io/providers/hashicorp/oci/latest/docs) - Terraform official docs for OCI
 
 #### Visual Builder Cloud Service
+
 - [Cookbook](https://vbcookbook.oracle.com/)
 - [Oracle Blogs](https://blogs.oracle.com/vbcs/oracle-visual-builder-cloud-service)
-- [Youtube Channel](https://www.youtube.com/channel/UC1CuuEupvAodXXN0Xh_Tnsg)
+- [Oracle Visual Builder Cloud Service Youtube](https://www.youtube.com/c/OracleApplicationBuilderCloud/videos)
+- [PM Youtube Channel](https://www.youtube.com/channel/UC1CuuEupvAodXXN0Xh_Tnsg)
 
 #### Visual Builder Studio
 
