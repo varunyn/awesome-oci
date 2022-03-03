@@ -62,6 +62,7 @@
 - [niallcblogs](http://niallcblogs.blogspot.com/) - For OIC 
 - [Mytechretreat](https://mytechretreat.com/)
 - [Martin Berger](https://www.martinberger.com/)
+- [That Jeff Smith](https://www.thatjeffsmith.com/) - SQL Developer, ORDS
 
 ## Contributing
 
