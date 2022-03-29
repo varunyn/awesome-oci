@@ -7,7 +7,6 @@
 - [OCI Sign Up for Always Free resources](https://www.oracle.com/cloud/free/)
 - [Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm)
 - [Blogs](https://blogs.oracle.com/cloud-infrastructure/)
-- [Quickstart](https://github.com/oracle-quickstart/)
 - [Hands on Labs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [Solution Playbooks](https://docs.oracle.com/solutions/?q=&cType=solution-playbook&sort=date-desc&lang=en)
 - [Reference Architecture](https://docs.oracle.com/solutions/?type=reference-architectures&page=0&is=true&sort=0)
@@ -15,6 +14,8 @@
 - [CLI](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm) - Getting started and installation
 - [CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/2.26.1/oci_cli_docs/)
 - [Get OCI Certified](https://www.oracle.com/cloud/iaas/training/)
+- [Quickstart Github](https://github.com/oracle-quickstart/)
+- [Oracle Sample Github](https://github.com/oracle-samples) - Oracle Sample Code Github repository
 
 ## Services
 
