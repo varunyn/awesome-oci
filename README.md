@@ -1,6 +1,10 @@
 
 # Awesome-OCI
 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/varunyn/awesome-oci)](https://github.com/varunyn/awesome-oci/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/varunyn/awesome-oci)](https://github.com/varunyn/awesome-oci/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/varunyn/awesome-oci)](https://github.com/varunyn/awesome-oci/graphs/contributors)
+
 
 ## Getting Started
 
