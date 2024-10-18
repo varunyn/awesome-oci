@@ -47,7 +47,7 @@
 - [Terraform official docs on OCI ](https://registry.terraform.io/providers/hashicorp/oci/latest/docs) - Terraform official docs for OCI
 
 #### Visual Builder Cloud Service
-
+- [Awesome Visual Builder](./awesome-vbcs.md) - For more awesome VB resources
 - [Cookbook](https://vbcookbook.oracle.com/)
 - [Oracle Blogs](https://blogs.oracle.com/vbcs/)
 - [Tutorial/How-to Series](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/videos.html)
