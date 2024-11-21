@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [Documentation](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/visual-builder-developer/basics.html)
 - [Cookbook](https://vbcookbook.oracle.com/)
 - [Oracle Blogs](https://blogs.oracle.com/vbcs/)
 - [Tutorial/How-to Series](https://docs.oracle.com/en/cloud/paas/app-builder-cloud/videos.html)
