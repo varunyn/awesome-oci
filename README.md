@@ -56,8 +56,8 @@
 
 #### Visual Builder Studio
 
-- [Visual Builder Studio product page](https://www.oracle.com/application-development/visual-builder-studio/) - Product page
-- [Visual Builder Studio documentation](https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/index.html) - Visual Builder Studio documentation
+- [Visual Builder Studio product page](https://docs.oracle.com/en-us/iaas/visual-builder-studio/index.html) - Product page
+- [Visual Builder Studio documentation](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-rest-apis/quick-start.html) - Visual Builder Studio REST APIs
 
 ## Blogs
 
