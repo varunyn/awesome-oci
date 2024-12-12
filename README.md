@@ -20,6 +20,7 @@
 - [Get OCI Certified](https://www.oracle.com/cloud/iaas/training/)
 - [Quickstart Github](https://github.com/oracle-quickstart/)
 - [Oracle Sample Github](https://github.com/oracle-samples) - Oracle Sample Code Github repository
+- [Oracle DevRel Git Repo](https://github.com/oracle-devrel) - DevRel Github Repository
 
 ## Services
 
