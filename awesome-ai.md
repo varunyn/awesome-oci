@@ -11,6 +11,15 @@ Curated AI resources for Oracle Cloud Infrastructure and the broader Oracle ecos
 | [OCI Generative AI Agents Service](https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/overview.htm) | Overview of Oracle Cloud Infrastructure Generative AI Agents. |
 | [AI Data Platform](https://docs.oracle.com/en/cloud/paas/ai-data-platform/)                     | Oracle AI Data Platform documentation.                    |
 
+## MCP Servers
+
+| Resource                                                                                         | Description                                               |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| [SQLcl MCP](https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.4/sqcug/using-oracle-sqlcl-mcp-server.html) | Oracle SQLcl MCP Server documentation.                    |
+| [Autonomous AI Database MCP](https://docs.oracle.com/en-us/iaas/autonomous-database-serverless/doc/mcp-server.html) | MCP server for Autonomous AI Database.                    |
+| [OAC MCP](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acsdv/oracle-analytics-cloud-mcp-server-preview.html) | Oracle Analytics Cloud MCP Server documentation.          |
+| [Python MCP Servers](https://github.com/oracle/mcp/tree/main/src)                               | Oracle MCP server implementations for Python.             |
+
 ## AI for Oracle Database
 
 | Resource                                                                                         | Description                                                                                                                |
